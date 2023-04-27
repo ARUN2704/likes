@@ -1,0 +1,56 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	font-family:'Poppins',sans serif;
+	
+
+}
+
+body{
+	background:linear-gradient(to right,#fff,#FF6FC2);
+}
+
+.like-sec{
+	
+}
+
+.container{
+	width:85%;
+	margin:auto;
+	text-align:center;	
+	margin-top:300px;
+	
+	
+	
+}
+
+.row{
+	display:flex;
+	flex-direction:column;
+	
+}
+
+.col{
+	font-size:19px;
+	font-weight:bolder;
+}
+
+.fa-regular{
+	cursor:pointer;
+	
+}
+
+
+
+#one{
+	color:#FF3B71;
+	display:none;	
+	cursor:pointer;
+}
+
+.like{
+	font-weight:bolder;
+	/* cursor:pointer; */
+}
+
